@@ -1,0 +1,6 @@
+{
+  "name": "SPO — Smart Procurement Orchestration",
+  "description": "Production-style agricultural procurement orchestration platform for Indian farmers, offering transparent slot booking, live queue pass, weighbridge verification, and direct PFMS DBT payments.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
